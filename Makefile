@@ -10,10 +10,6 @@ install-aws:
 	pip install --upgrade pip &&\
 		pip install -r requirements-aws.txt
 
-install-amazon-linux:
-	pip install --upgrade pip &&\
-		pip install -r amazon-linux.txt
-
 install-azure:
 	pip install --upgrade pip &&\
 		pip install -r requirements-azure.txt
