@@ -16,6 +16,8 @@ Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://pa
 
 ![Python application test with Github Actions](https://github.com/noahgift/github-actions-demo/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
 
+[![Azure Python 3.9](https://github.com/ssgm2911/github-actions-demo/actions/workflows/azure.yml/badge.svg)](https://github.com/ssgm2911/github-actions-demo/actions/workflows/azure.yml)
+
 # github-actions-demo
 This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
 
